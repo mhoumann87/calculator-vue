@@ -2,7 +2,7 @@
 
 This is my first attempt to make something with Vue, and I found this [tutorial from FreeCodeCamp](https://www.youtube.com/watch?v=m1_ih43p24s&t=301s) on Youtube and gave it a shot.
 
-### ========================================================================
+### ====================================================
 
 ## Project setup
 ```
